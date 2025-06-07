@@ -85,6 +85,7 @@ function App() {
             <div className="terminal-line" key={idx}>{line}</div>
           ))}
         </div>
+      </div>
 
       {/* CODE + BUTTON */}
       {showControls && (
