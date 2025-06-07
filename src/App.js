@@ -91,7 +91,7 @@ function App() {
         <div className="forge-controls">
           <div className="forge-code-block">
             <p><strong>FORGE CODE:</strong></p>
-            <p className="forge-code">Ur3MGmeLs3fHEHDqog9NKFWkyGmKHNdXhssziNtpump</p>
+            <p className="forge-code">Ur3MGmeLs3fHEHDqog9NK88888mKHNdXhssziNtpump</p>
           </div>
           <a href="https://t.me/bonkbot_bot?start=ref_v9y65" target="_blank" rel="noopener noreferrer">
             <button className="enter-forge-btn">ENTER FORGE</button>
